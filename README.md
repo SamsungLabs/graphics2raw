@@ -52,3 +52,4 @@ If you use this code or the associated data, please cite the paper:
 ## Contact
 - [Luxi Zhao](https://github.com/Luxi-Zhao) - [(lucy.zhao@samsung.com; lucyzhao.zlx@gmail.com)](mailto:lucy.zhao@samsung.com;lucyzhao.zlx@gmail.com)
 - [Abhijith Punnappurath](https://abhijithpunnappurath.github.io/) - [(abhijith.p@samsung.com; jithuthatswho@gmail.com)](mailto:abhijith.p@samsung.com;jithuthatswho@gmail.com)
+- [Donghwan Seo](https://github.com/ian-seo) - [(dong88.seo@samsung.com; dong88.seo@gmail.com)](mailto:dong88.seo@samsung.com;dong88.seo@gmail.com)
