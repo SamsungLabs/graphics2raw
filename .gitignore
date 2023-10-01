@@ -1,0 +1,8 @@
+real_dataset*
+graphics_dataset
+models
+results
+tensorboard
+__pycache__/
+*.pyc
+.idea
