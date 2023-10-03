@@ -23,9 +23,11 @@ Donghwan Seo, Abhijith Punnappurath, Luxi Zhao, Abdelrahman Abdelhamed, Sai Kira
 ### Dataset
 Our graphics dataset can be downloaded from [here](https://sites.google.com/view/tedlasai/home/graphics2raw).
 
+In addition to the full dataset, a small set of sample images is provided for a sneak peek.
+
 ### Convert graphics images to RAW images
 ```
-python3 -m data_generation.package_exr_to_dng_graphics2raw --exr_folder_path path/to/graphics2RAW-dataset
+python3 -m data_generation.package_exr_to_dng_graphics2raw --exr_folder_path path/to/graphics2RAW-dataset-samples --save_path path/to/outputs
 ```
 
 ## Downstream Tasks
