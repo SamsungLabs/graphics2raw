@@ -36,6 +36,9 @@ Data generation, training and testing instructions for the downstream tasks:
 - [RAW Denoising](docs/raw_denoising.md)
 - [Illumination Estimation](docs/illum_est.md)
 
+## Acknowledgement
+We would like to express our special thanks to [SiDi](https://www.sidi.org.br/) collaborating with Samsung for the graphics data.
+
 ## Citation
 
 If you use this code or the associated data, please cite the paper:
